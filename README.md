@@ -35,6 +35,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iltisheim/iltisheim/output/snake.svg" alt="Snake animation" />
-
 ###
